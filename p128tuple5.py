@@ -1,0 +1,5 @@
+tupleD=(11,22,33,44,55,11,99,33)
+lis=list(tupleD)
+print(max(lis))
+print(min(lis))
+print(sum(lis))
